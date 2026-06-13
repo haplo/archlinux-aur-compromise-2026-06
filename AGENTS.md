@@ -9,7 +9,7 @@ A tiny Arch Linux utility that checks whether any installed AUR packages appear 
 | File | Purpose |
 |------|---------|
 | `check_aur_compromise.py` | Main script. Runs multiple checks (see below), prints colored results, exits 0/1. |
-| `bad_pkg.txt` | Sorted list of compromised AUR package names (one per line). |
+| `bad_pkg.txt` | Sorted list of compromised AUR package names (one per line). Source: https://md.archlinux.org/s/SxbqukK6IA |
 
 ## How it works
 
